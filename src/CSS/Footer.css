@@ -1,0 +1,11 @@
+.footer {
+    flex-shrink: 0;
+    background-color: lightblue;
+    color: white;
+    overflow:auto;
+  }
+li{
+    display: inline;
+    list-style: none;
+    margin-right: 2%;
+}
